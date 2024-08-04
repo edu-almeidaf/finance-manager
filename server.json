@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2024-08-02T19:20:36.023Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-08-04T19:23:28.469Z",
+      "id": 3
+    },
+    {
+      "description": "Caldo de cana no lago",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-08-04T19:51:10.496Z",
+      "id": 4
     }
   ]
 }
