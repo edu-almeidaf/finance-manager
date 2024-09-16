@@ -24,7 +24,7 @@ O **Gerenciador de finanças** é uma aplicação onde o usuário pode ter um co
 
 ---
 
-- **Filtro por nome de transação**: Além de visualizar a lista de transações, o usuário pode ainda filtrar pelo nome da transaçao que deseja obter mais detalhes. Ao filtrar, os quadros de Entradas, Saídas e Total também é modificado com base na quantidade de transações que aparece em tela.
+- **Filtro por nome de transação**: Além de visualizar a lista de transações, o usuário pode ainda filtrar pelo nome da transação que deseja obter mais detalhes. Ao filtrar, os quadros de Entradas, Saídas e Total também é modificado com base na quantidade de transações que aparece em tela.
 
 <div align="center">
   <img src="./public/readme/filter.png" alt="Conclusão de metas" />
